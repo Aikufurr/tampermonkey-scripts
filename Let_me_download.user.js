@@ -6,6 +6,8 @@
 // @author       You
 // @match        https://www.instagram.com/*
 // @icon         https://www.google.com/s2/favicons?domain=instagram.com
+// @downloadURL  https://github.com/Aikufurr/tampermonkey-scripts/raw/main/Let_me_download.user.js
+// @updateURL    https://github.com/Aikufurr/tampermonkey-scripts/raw/main/Let_me_download.user.js
 // @grant        none
 // ==/UserScript==
 
@@ -19,3 +21,4 @@
     }
     checkDOMChange();
 })();
+
